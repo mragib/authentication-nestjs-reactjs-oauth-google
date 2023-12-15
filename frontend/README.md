@@ -1,9 +1,11 @@
-#PLEASE change the file name .env.dev to .env and provide your google client id
+# PLEASE change the file name .env.dev to .env and provide your google client id
 
-###for install
+### for install
+
 npm i
 
-###for start
+### for start
+
 npm run dev
 
 i use vite for the project. React query for remote access.
